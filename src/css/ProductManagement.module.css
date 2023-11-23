@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@1,700&family=Oswald:wght@200&family=Roboto+Condensed:ital@1&family=Roboto:ital@1&display=swap');
+table {
+    border-collapse: collapse;
+    width: 100%;
+    
+  }
+  
+  th,
+  td {
+    border: 1px solid #ffffff;
+    text-align: center;
+    padding: 8px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+
+    
+  }
+  
+  th {
+    background-color: rgb(218, 157, 95);
+  }
+  
+  td {
+    background-color: rgb(255, 206, 160);
+  }
+  td button {
+    margin-right: 8px; /* Adjust the margin as needed */
+  }
+  
+  .container {
+    margin-top: 30px; /* Adjust the margin as needed */
+  }
+  .Search{
+    text-align: center;
+  }
+  .container1 {
+    /* display: flex; */
+     flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    justify-content: space-between; /* Space elements evenly */
+    margin-top: 30px;
+    margin-right: 30px;
+ 
+  
+  }
+  
+  .label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    margin-left: 10 px;
+  }
+  
+  .searchInput {
+    width: 300px;
+    padding: 10px;
+  }
+
+  .addButton{
+    
+    text-decoration: none;
+    float: right;
+    padding: 20px 20px ;
+    text-align: center;
+    color: black;
+    background-color:  rgb(218, 157, 95);
+    border-radius: 7%;
+    font-weight: 400;
+    font-size: 18px
+    
+  }
+  
+  

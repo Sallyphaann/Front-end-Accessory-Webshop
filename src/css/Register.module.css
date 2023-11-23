@@ -1,0 +1,75 @@
+.registerPage {
+     width: 1500px;
+     padding: 2% 0 0;
+     margin: 0 auto; 
+     margin-top: 0;
+     /* display: flex;
+    align-items: center;
+    justify-content: center; */
+
+ 
+  
+}
+.registerheader{
+    font-size: 24px;
+        font-weight: 600;
+        font-family: "Roboto", sans-serif;
+        color:black;
+        text-align: center;
+}
+.form {
+    position: relative;
+    z-index: 1;
+    background:peru;
+    max-width: 1000px;
+    margin: 0 auto 300px;
+    padding: 45px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+ 
+.form input {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 10px 0;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.form button{
+        font-family: "Roboto", sans-serif;
+        text-transform: uppercase;
+        outline: 0;
+        background-color: #FAEBD7;
+        background-image: linear-gradient(45deg,#efe615,#F4A460);
+        width: 48%;
+        border: 0;
+        padding: 15px;
+        color: #FFFFFF;
+        font-size: 14px;
+        -webkit-transition: all 0.3 ease;
+        transition: all 0.3 ease;
+        cursor: pointer;
+        margin: 20px 0;
+        justify-content: center;
+        margin-left: 10px;
+
+
+}
+.checkbox{
+   
+    align-items: center;
+}
+.error{
+    text-align: center;
+    color: rgb(249, 7, 7);
+    font-weight: 400;
+   
+}
+.formParagraph {
+    margin: 5px 0;
+  padding: 0;
+  }
+  

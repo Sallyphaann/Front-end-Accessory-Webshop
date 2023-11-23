@@ -1,0 +1,47 @@
+.content h1 {
+    font-size:60px;
+    font-weight:100;
+    margin-top:24px;
+    margin-bottom: 15px;
+    color:peru;
+}
+.content p{
+    font-size: 20px;
+    color:rgb(243, 158, 74);
+    
+}
+.content{
+    margin-left:10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.featureimg{
+    height:90%;
+    width: 833px;;
+    position: absolute;
+    bottom:0;
+    left:700px;
+
+}
+.buttonHome:hover{
+    background-color:rgb(229, 176, 123);
+}
+.buttonHome{
+    
+    text-align: center;
+    text-decoration: none;
+    color: brown;
+    font-weight: 800;
+    border: 20%;
+    background-color: antiquewhite;
+    padding: 20px 20px;
+    border-radius: 20%;
+    position: absolute;
+    left: 20%;
+}
+.text{
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    bottom:45%;
+}
