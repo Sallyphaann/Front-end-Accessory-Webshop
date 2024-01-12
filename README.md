@@ -1,2 +1,2 @@
 # Front-end-Accessory-Webshop
-This is the front end of an accessory webshop that I use JavaScript and React to create
+This is the frontend of an accessory webshop created using JavaScript, with React serving as a JavaScript library for building user interfaces
